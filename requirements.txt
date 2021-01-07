@@ -46,7 +46,7 @@ OPi.GPIO==0.3.6
 PyEssent==0.12
 
 # homeassistant.components.github
-PyGithub==1.43.5
+PyGithub==1.54.1
 
 # homeassistant.components.isy994
 PyISY==1.1.1
